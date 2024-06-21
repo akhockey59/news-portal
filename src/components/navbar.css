@@ -1,0 +1,15 @@
+.custom-navbar {
+    background-color: #007BFF;
+    padding: 0;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+    color: #98FF98;
+    font-weight: bold;
+}
+
+.custom-navbar .nav-link.active {
+    color: black; 
+    font-weight: 600;
+}
